@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rushad
-- 👀 I’m interested in <strong> Math & Data Science </strong>
-- 🌱 I’m currently learning <strong> Machine Learning and Deep Learning </strong>
-- 💞️ I’m looking to collaborate on <strong> Data Science Project </strong>
+- 👀 I’m interested in <strong> Game Development </strong>
+- 🌱 I’m currently learning <strong> Computer Graphics using OpenGL/Vulkan </strong>
+- 💞️ I’m looking to collaborate on <strong> Game Development Project using C++ </strong>
 - 📫 How to reach me [Facebook](https://www.facebook.com/rushad.tanjim) [Gmail](rushadtanjim@gmail.com)
 
 
