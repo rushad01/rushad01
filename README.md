@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **javascript,react,expressjs,c,c++**
 
-- 📫 How to reach me **[Email](rushadtanjim3@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
